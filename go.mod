@@ -1,4 +1,4 @@
-module github.com/goreleaser/chglog
+module github.com/masonkatz/chglog
 
 go 1.20
 
